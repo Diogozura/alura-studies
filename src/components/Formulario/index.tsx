@@ -65,7 +65,6 @@ class Formulario extends React.Component<{
                         required
                     />    
                 </div>
-                <pre>{ JSON.stringify (this.state, null, 2)}</pre>
                 {/* <Botao
                 texto='Adicionar'
                 /> */}
